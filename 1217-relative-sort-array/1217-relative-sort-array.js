@@ -20,8 +20,6 @@ var relativeSortArray = function(arr1, arr2) {
         b.push(arr1[k])
        } 
     }
-    console.log(a)
-    console.log(b)
   b.sort((a,b)=>a-b)
 return a.concat(b)
     

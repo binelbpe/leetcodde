@@ -2,16 +2,12 @@
  * @param {number} n
  * @return {number}
  */
-var climbStairs = function(n) {
-   
-    let dp = [0,1,2]
-
-    let currentStep = 3
-
-    while(currentStep <= n){
-        dp[currentStep] = dp[currentStep-1] + dp[currentStep - 2]
-        currentStep++
+var climbStairs = function (n) {
+    let a = [0, 1, 2]
+    let c = 3
+    while (c <= n) {
+        a[c] = a[c - 1] + a[c - 2]
+        c++
     }
-
-    return dp[n] 
+    return a[n]
 };

@@ -40,5 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/binelbpe/leetcode/tree/master/0136-single-number) |
 | [1293-three-consecutive-odds](https://github.com/binelbpe/leetcode/tree/master/1293-three-consecutive-odds) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/binelbpe/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

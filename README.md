@@ -42,8 +42,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/binelbpe/leetcode/tree/master/0136-single-number) |
 | [1293-three-consecutive-odds](https://github.com/binelbpe/leetcode/tree/master/1293-three-consecutive-odds) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/binelbpe/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/binelbpe/leetcode/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/binelbpe/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+## String
+|  |
+| ------- |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/binelbpe/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/binelbpe/leetcode/tree/master/1168-duplicate-zeros) |
 | [1293-three-consecutive-odds](https://github.com/binelbpe/leetcode/tree/master/1293-three-consecutive-odds) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/binelbpe/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/binelbpe/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Bit Manipulation
 |  |
 | ------- |

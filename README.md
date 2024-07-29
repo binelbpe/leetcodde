@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/binelbpe/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/binelbpe/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/binelbpe/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/binelbpe/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/binelbpe/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/binelbpe/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Bit Manipulation
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/binelbpe/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+## Sorting
+|  |
+| ------- |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/binelbpe/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 <!---LeetCode Topics End-->

@@ -55,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/binelbpe/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1168-duplicate-zeros](https://github.com/binelbpe/leetcode/tree/master/1168-duplicate-zeros) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/binelbpe/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/binelbpe/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/binelbpe/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/binelbpe/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/binelbpe/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

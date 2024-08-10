@@ -59,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/binelbpe/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/binelbpe/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1168-duplicate-zeros](https://github.com/binelbpe/leetcode/tree/master/1168-duplicate-zeros) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/binelbpe/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/binelbpe/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/binelbpe/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/binelbpe/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |

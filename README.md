@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/binelbpe/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/binelbpe/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/binelbpe/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3221-find-the-peaks](https://github.com/binelbpe/leetcode/tree/master/3221-find-the-peaks) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/binelbpe/leetcode/tree/master/0162-find-peak-element) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/binelbpe/leetcode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->

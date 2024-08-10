@@ -8,12 +8,8 @@ var reverseWords = function(s) {
     if(s[i]==" "&&s[i+1]==" "){
         continue
     }
-
 arr.push(s[i])
    }
-
-   console.log(arr)
-   
-   return arr.join("").split(" ").reverse().join(" ").trim()
+    return arr.join("").split(" ").reverse().join(" ").trim()
     
 };

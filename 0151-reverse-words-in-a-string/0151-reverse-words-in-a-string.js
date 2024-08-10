@@ -4,8 +4,6 @@
  */
 var reverseWords = function(s) {
     let arr=[]
-   s.trim().split(" ")
-   
    for(let i=0;i<s.length;i++){
     if(s[i]==" "&&s[i+1]==" "){
         continue

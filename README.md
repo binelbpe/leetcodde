@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/binelbpe/leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/binelbpe/leetcode/tree/master/0162-find-peak-element) |
 | [1168-duplicate-zeros](https://github.com/binelbpe/leetcode/tree/master/1168-duplicate-zeros) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/binelbpe/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/binelbpe/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/binelbpe/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/binelbpe/leetcode/tree/master/0812-rotate-string) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/binelbpe/leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
